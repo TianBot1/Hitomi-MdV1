@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://a.uguu.se/JdgoBrk.jpg" alt="Hitomi-Md" width="100"/>
-
-
 </p>
 <p align="center">
 <a href="#"><img title="HITOMI BOT" src="https://img.shields.io/badge/HITOMI BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -32,8 +28,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/TianBot1/Hitomi-Md
-cd Hitomi-Md
+git clone https://github.com/TianBot1/Hitomi-MdV1
+cd Hitomi-MdV1
 pkg install yarn
 yarn
 npm start
@@ -53,6 +49,9 @@ npm start
 - [Dana](https://i.ibb.co/f2h3MDQ/Qris.jpg)
 - [Gopay](https://i.ibb.co/f2h3MDQ/Qris.jpg)
 - [Ovo](https://i.ibb.co/f2h3MDQ/Qris.jpg)
+
+# Youtube
+- https://youtube.com/c/ChristianID99
 
 # Thanks to
 - rtwone / Irfan
