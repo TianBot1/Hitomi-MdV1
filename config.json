@@ -1,0 +1,21 @@
+{
+  "ownerNumber": ["6285921165857@s.whatsapp.net"],
+  "ownerName": ["Christian ID"],
+  "botName": "Hitomi MD",
+  "hitokey": "HitomiMd",
+  "youtubeOwner": "https://youtube.com/c/ChristianID99",
+  "web": "https://hitomi-rest-api.herokuapp.com/",
+  "donasiQris": "https://i.ibb.co/f2h3MDQ/Qris.jpg",
+  "donasiPulsa": "0813-2850-7885",
+  "sb": "➸",
+  "footer": "© Hitomi MD 2022",
+  "fake": "HITOMI MULTI DEVICE",
+  "sessionName": "hitomi",
+  "pathimg": "./media/hitomi.jpg",
+  "gamewaktu": 90,
+  "limitCount": 30,
+  "gcount": {
+	"prem": 99999,
+	"user": 20
+  }
+}
