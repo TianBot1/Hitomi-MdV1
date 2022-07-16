@@ -1,6 +1,6 @@
 /*
-  * Created by Christian ID 
-  * Base Ori : rtwone / Irfan
+  * Created by Adi ID 
+  * Base Ori : rtwone / Adi Botz 
 */
 
 "use strict";
